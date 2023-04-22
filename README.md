@@ -21,3 +21,9 @@ The script will generate individual reports on every headline it fines for each 
 
 <img width="239" alt="Screen Shot 2023-04-22 at 4 11 01 AM" src="https://user-images.githubusercontent.com/29033313/233757155-63018c25-6a6f-4f19-ade4-cc0f0a43610c.png">
 
+# Full options
+```optional arguments:
+  -h, --help            show this help message and exit
+  -t, --turbo           use gpt-3.5-turbo instead of gpt-4
+  -c, --combined        send and receive all the headlines in bulk (cheaper but probabaly less good)
+  -T TEMP, --temp TEMP  temperature (variability) of the model. a value between 0.0 and 1.0 (default: 0.3)```
