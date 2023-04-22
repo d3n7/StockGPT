@@ -7,6 +7,10 @@ I.e. you probably shoudn't invest with it..or use it at all.
 
 inspired by this paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788
 
+# How it works
+For every company you put in the file company.txt, it will search the internet for news articles in the last day about your company.
+It will evaluate each headline as a number between -1 and 1 signigying if it will impact the stock price negatively or postively.
+
 # How to use it
 1. If you haven't installed the dependencies already, run, ```pip install -r requirements.txt```
 2. If you haven't already, put your OpenAI api token in the file called auth.txt
