@@ -4,7 +4,7 @@ inspired by this paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412
 
 # DISCLAIMER
 Please only use this to see how it correlates to stock movements rather than use it to invest.
-it's probably not very good at it.
+it's probably not very good at it anyways.
 
 # How it works
 For every company you put in the file company.txt, it will search the internet for news articles in the last day about your company.
