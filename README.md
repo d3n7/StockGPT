@@ -16,5 +16,6 @@ The script will generate individual reports on every headline it fines for each 
 
 # Examples
 ```python sgpt.py -t -c```
+
 <img width="257" alt="Screen Shot 2023-04-22 at 4 07 07 AM" src="https://user-images.githubusercontent.com/29033313/233757108-6ddd34af-e3df-4bb4-a71c-34519166e785.png">
 
