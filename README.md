@@ -28,8 +28,8 @@ It generates the reports for you on each company's healdines, in the form of a .
 
 Stock movements the next day:
 
-![IMG_6387](https://user-images.githubusercontent.com/29033313/233776033-b0f4c56e-9ce0-4e76-96db-0f9cdb1ac144.jpg)
-![IMG_6388](https://user-images.githubusercontent.com/29033313/233776038-6e96bfe8-486b-4459-b249-afb160162248.jpg)
+<img width="1103" alt="Screen Shot 2023-04-22 at 8 11 42 PM" src="https://user-images.githubusercontent.com/29033313/233800089-d4b72d8c-8bf0-438c-a657-5a6c901dec75.png">
+
 
 
 # Full options
