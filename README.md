@@ -2,6 +2,8 @@
 Predict Stock movements with GPT-4 or GPT-3.5
 inspired by this paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788
 
+### Currently Untested!
+
 # DISCLAIMER
 Please only use this to see how it correlates to stock movements rather than use it to invest.
 it's probably not very good at it anyways.
