@@ -26,6 +26,12 @@ It generates the reports for you on each company's healdines, in the form of a .
 
 <img width="239" alt="Screen Shot 2023-04-22 at 4 11 01 AM" src="https://user-images.githubusercontent.com/29033313/233757155-63018c25-6a6f-4f19-ade4-cc0f0a43610c.png">
 
+Stock movements the next day:
+
+![IMG_6387](https://user-images.githubusercontent.com/29033313/233776033-b0f4c56e-9ce0-4e76-96db-0f9cdb1ac144.jpg)
+![IMG_6388](https://user-images.githubusercontent.com/29033313/233776038-6e96bfe8-486b-4459-b249-afb160162248.jpg)
+
+
 # Full options
 ```optional arguments:
   -h, --help            show this help message and exit
