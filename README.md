@@ -9,13 +9,13 @@ it's probably not very good at it anyways.
 # How it works
 For every company you put in the file company.txt, it will search the internet for news articles in the last day about your company.
 It will evaluate each headline as a number between -1 and 1 signigying if it will impact the stock price negatively or postively.
+It generates the reports for you on each company's healdines, in the form of a .csv file. And a final report which includes ths api costs.
 
 # How to use it
 1. If you haven't installed the dependencies already, run, ```pip install -r requirements.txt```
 2. If you haven't already, put your OpenAI api token in the file called auth.txt
 3. Put a list of companies you want to track in companies.txt
 4. Run ```python sgpt.py -h``` to see your options, then run the command as you want.
-The script will generate individual reports on every headline it fines for each company, as well as an overall report which includes the API costs.
 
 # Examples
 ```python sgpt.py -t -c```
