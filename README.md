@@ -12,3 +12,9 @@ inspired by this paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412
 2. If you haven't already, put your OpenAI api token in the file called auth.txt
 3. Put a list of companies you want to track in companies.txt
 4. Run ```python sgpt.py -h``` to see your options, then run the command as you want.
+The script will generate individual reports on every headline it fines for each company, as well as an overall report which includes the API costs.
+
+# Examples
+```python sgpt.py -t -c```
+<img width="257" alt="Screen Shot 2023-04-22 at 4 07 07 AM" src="https://user-images.githubusercontent.com/29033313/233757108-6ddd34af-e3df-4bb4-a71c-34519166e785.png">
+
