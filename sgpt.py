@@ -44,10 +44,14 @@ for company in open('companies.txt', 'r').readlines():
     if not args.combined:
         for i in r:
             headline = i['title']
-            score = float(re.findall(r'-?\d+\.\d+', askGPT(headline))[0])
-            scores.append([headline, score])
-            sum += score
-            num += 1
+            try:
+                score = float(re.findall(r'-?\d+\.\d+', askGPT(headline))[0])
+                scores.append([headline, score])
+                sum += score
+                num += 1
+            except:
+                scores.append([headline, ''])
+
     #or as a batch
     else:
         headlines = []
