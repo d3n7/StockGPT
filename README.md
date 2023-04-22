@@ -20,7 +20,7 @@ It generates the reports for you on each company's healdines, in the form of a .
 4. Run ```python sgpt.py -h``` to see your options, then run the command as you want.
 
 # Examples
-```python sgpt.py -t -c```
+```python sgpt.py -t -c``` (gpt-3.5-turbo, sending the headlines in a batch)
 
 <img width="257" alt="Screen Shot 2023-04-22 at 4 07 07 AM" src="https://user-images.githubusercontent.com/29033313/233757108-6ddd34af-e3df-4bb4-a71c-34519166e785.png">
 
