@@ -40,7 +40,7 @@ for company in open('companies.txt', 'r').readlines():
     num = 0
 
     #collect scores for every headine from the last day one by one
-    r = ddg_news(company, safesearch='Off', time='1')
+    r = ddg_news(company, safesearch='Off', time='d')
     if not args.combined:
         for i in r:
             headline = i['title']
