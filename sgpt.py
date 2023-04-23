@@ -88,3 +88,4 @@ with open('report.csv', 'w') as f:
     csvwriter = csv.writer(f)
     csvwriter.writerow(['Company', 'Mean Score'])
     csvwriter.writerows(tScores)
+print('[*] Saved report.csv')
