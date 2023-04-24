@@ -9,9 +9,9 @@ Please only use this to see how it correlates to stock movements rather than use
 it's probably not very good at it anyways.
 
 # How it works
-For every company you put in the file company.txt, it will search the internet for news articles in the last day about your company.
-It will evaluate each headline as a number between -1 and 1 signigying if it will impact the stock price negatively or postively.
-It generates the reports for you on each company's healdines, in the form of a .csv file. And a final report which includes ths api costs.
+For every company you put in company.txt, it'll search the internet for news articles in from last day about your company.
+It will evaluate each headline as a number between -1 and 1, signifying if it will impact the stock price negatively, postively or not at all.
+It generates the reports for you on each company's healdines, in the form of a .csv file. And a final report which includes the api costs.
 
 # How to use it
 1. If you haven't installed the dependencies already, run, ```pip install -r requirements.txt```
